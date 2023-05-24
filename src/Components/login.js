@@ -113,13 +113,13 @@ const Login = () =>
                 </button>
                 
                 </div>
-                {display&&(
+                {/* {display&&(
                   <p>Your Name is: {values.name} <br></br>
                   Your Email is: {values.email} <br></br>
                   Your Password is: {values.password} <br></br>
                   </p>
                   
-                )}
+                )} */}
 
                 
                 
