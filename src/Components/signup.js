@@ -129,7 +129,7 @@ const Signup = () =>
                     </div>
                 </div>
 
-                {valDisplay&&(
+                {/* {valDisplay&&(
             <div>
               
                Name: <p>{valDisplay.name}</p>
@@ -147,7 +147,7 @@ const Signup = () =>
             <div>
                Password: <p>{valDisplay.password}</p>
             </div>
-         )}    
+         )}     */}
                 {/* < Welcome name = "values.name"/> */}
 
                 </div>
