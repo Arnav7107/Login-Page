@@ -56,7 +56,10 @@ const Signup = () =>
 
       // <h1>Welcome to Signup Page</h1>
         <div  style={{display: 'flex', flexDirection: 'column', justifyContent: 'center' , justifyItems: 'center'}} >
-                <h1>Welcome to Signup Page</h1>
+            <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center' , justifyItems: 'center' ,paddingLeft:'400px', paddingBottom:'25px'}} >
+               <h1>Welcome to Signup Page</h1>
+            </div>
+                
 
               {/* <form>
                     <div className="input-group heading width">
